@@ -15,7 +15,7 @@ Manual categorization causes delays and inconsistencies. This project develops a
 ## Key Challenges
 - Information Overload: Continuous inflow of massive text data.
 - Timeliness: Delayed classification reduces content relevance.
-- 
+
 This solution applies self-attention and contextual embeddings to overcome these issues.
 
 ## Dataset
